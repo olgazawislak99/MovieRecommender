@@ -19,6 +19,10 @@ Napisz testy jednostkowe, które sprawdzą poprawność rozwiązania.
 composer install
 ```
 # Uruchomienie
+Utwórz plik .env i dodaj w nim linię
+```bash
+MOVIES_FILE_PATH=
+```
 Aplikację można uruchomić z poziomu lini komend wpisując:
 ```bash
 php bin/console app:find-movie
