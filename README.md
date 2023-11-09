@@ -1,4 +1,4 @@
-Morele.Net Zadanie rekrutacyjne - Movie Recommender
+Zadanie rekrutacyjne - Movie Recommender
 =====
 
 ## Treść zadania
